@@ -4,7 +4,7 @@ In this, we designed and implemented an effective and user-friendly musical note
 
 ### Design
 
-The musical piece is fed to the system which processes the audio signal and recognizes the frequency and pitch of the signal thereby identifying the type of musical note by comparing it with the standard musical notes available.
+The musical piece is fed to the system which processes the audio signal. The frequency and pitch of the signal is determined thereby identifying the type of musical note by comparing it with the standard musical notes available.
 
 ### Software Analysis
 
