@@ -26,7 +26,7 @@ There are 6 stages involved :
 
   - Frequency > Middle C octave range - It divides the input frequency by 2 and goes through the same process but now it divides by 2 instead of multiplying.
 
-  - Frequency ~ Middle C octave range - It determines what pitch it is based on some accepted ranges/values for pitches and return the pitch. Finally, the program returns the pitch and the octave above or below the middle C octave. (Positive for octaves above, negative for octaves below).
+  - Frequency ~ Middle C octave range - It determines what pitch it is based on some accepted ranges/values for pitches and return the pitch. Finally, the program returns the pitch and the octave above or below the middle C octave. <I><B>(Positive for octaves above, negative for octaves below)</B>.</I>
 
 ### Conclusion
 
