@@ -2,6 +2,10 @@
 
 In this, we designed and implemented an effective and user-friendly musical note recognition software using MATLAB which can identify the exact note by finding the frequency of the input note. This project is implemented by using Fourier Analysis, Windowing technique to seperate and match the note as per the given one, along with plotting of the note in the graph in time and frequency domain.
 
+### Design
+
+The musical piece is fed to the system which processes the audio signal and recognizes the frequency and pitch of the signal thereby identifying the type of musical note by comparing it with the standard musical notes available.
+
 ### Software Analysis
 
 There are 6 stages involved :
