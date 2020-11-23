@@ -6,6 +6,10 @@ In this, we designed and implemented an effective and user-friendly musical note
 
 The musical piece is fed to the system which processes the audio signal. The frequency and pitch of the signal is determined thereby identifying the type of musical note by comparing it with the standard musical notes available.
 
+<div align='center'>
+<img src = 'block_diagram.PNG' height="300px">
+</div>
+
 ### Software Analysis
 
 There are 6 stages involved :
